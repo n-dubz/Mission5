@@ -1,0 +1,1248 @@
+{
+  "Version": 1,
+  "Hash": "K1jJSf9x3lw7gWi/53QDx2Bp1PE98weN14hoUXZTLn8=",
+  "Source": "Mission5",
+  "BasePath": "_content/Mission5",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Mission5/wwwroot",
+      "Source": "Mission5",
+      "ContentRoot": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/",
+      "BasePath": "_content/Mission5",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/nicko/RiderProjects/Mission5/Mission5/obj/Debug/net9.0/compressed/5sg8eznnb9-65539ov4vl.gz",
+      "SourceId": "Mission5",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nicko/RiderProjects/Mission5/Mission5/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Mission5",
+      "RelativePath": "images/burger_hamburger_icon_263225#[.{fingerprint=65539ov4vl}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/images/burger_hamburger_icon_263225.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6lxeho3gx6",
+      "Integrity": "dh0IXxllkhPSnIeMoVcm0DqQh0UinN3XFXsI+pRP9rs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/images/burger_hamburger_icon_263225.ico"
+    },
+    {
+      "Identity": "/Users/nicko/RiderProjects/Mission5/Mission5/obj/Debug/net9.0/compressed/e26nif0wio-marxx22rfo.gz",
+      "SourceId": "Mission5",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nicko/RiderProjects/Mission5/Mission5/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Mission5",
+      "RelativePath": "css/site#[.{fingerprint=marxx22rfo}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/css/site.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "jnbrj558u7",
+      "Integrity": "v+rm8nXqalkufM7fCKJ0iB8/mMHSOmDZYwdR1fXP/1M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/Users/nicko/RiderProjects/Mission5/Mission5/obj/Debug/net9.0/compressed/xedw879824-48zivp93dz.gz",
+      "SourceId": "Mission5",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nicko/RiderProjects/Mission5/Mission5/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Mission5",
+      "RelativePath": "js/calculator#[.{fingerprint=48zivp93dz}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/js/calculator.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "b64pjiej65",
+      "Integrity": "Y/zjakbs0OBTdWMG71G5adhlV8x9mTSbu4OUbg5/35M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/js/calculator.js"
+    },
+    {
+      "Identity": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/css/site.css",
+      "SourceId": "Mission5",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/",
+      "BasePath": "_content/Mission5",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "marxx22rfo",
+      "Integrity": "kg6nDbDmnmjGkK5ChPlND4F9UBwsN38b7pb2dYLT3jE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/images/burger_hamburger_icon_263225.ico",
+      "SourceId": "Mission5",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/",
+      "BasePath": "_content/Mission5",
+      "RelativePath": "images/burger_hamburger_icon_263225#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "65539ov4vl",
+      "Integrity": "yjWnber+ScRx0ZzJ539ZxM0lYzfu0F8Dxuc6iEHM5V8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/burger_hamburger_icon_263225.ico"
+    },
+    {
+      "Identity": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/images/SMI1.jpeg",
+      "SourceId": "Mission5",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/",
+      "BasePath": "_content/Mission5",
+      "RelativePath": "images/SMI1#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "al90xytrzc",
+      "Integrity": "jknQmG84xJpnX49r+miQMMn8E3WMdHTFL57EpyT25AI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/SMI1.jpeg"
+    },
+    {
+      "Identity": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/images/SMI2.jpeg",
+      "SourceId": "Mission5",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/",
+      "BasePath": "_content/Mission5",
+      "RelativePath": "images/SMI2#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b87osvgbv0",
+      "Integrity": "m3LFKc1Rb3lCJS18jc91UvocwSDdoAw5xcQ1qf1XKKQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/SMI2.jpeg"
+    },
+    {
+      "Identity": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/js/calculator.js",
+      "SourceId": "Mission5",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/",
+      "BasePath": "_content/Mission5",
+      "RelativePath": "js/calculator#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "48zivp93dz",
+      "Integrity": "LKoyfp8mdm/5sas45rSVsTQf8Cyyts3mxD63/LVna1I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/calculator.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/obj/Debug/net9.0/compressed/e26nif0wio-marxx22rfo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001145475372"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "872"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v+rm8nXqalkufM7fCKJ0iB8/mMHSOmDZYwdR1fXP/1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 22:36:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kg6nDbDmnmjGkK5ChPlND4F9UBwsN38b7pb2dYLT3jE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kg6nDbDmnmjGkK5ChPlND4F9UBwsN38b7pb2dYLT3jE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2479"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kg6nDbDmnmjGkK5ChPlND4F9UBwsN38b7pb2dYLT3jE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 22:36:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kg6nDbDmnmjGkK5ChPlND4F9UBwsN38b7pb2dYLT3jE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/obj/Debug/net9.0/compressed/e26nif0wio-marxx22rfo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "872"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v+rm8nXqalkufM7fCKJ0iB8/mMHSOmDZYwdR1fXP/1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 22:36:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v+rm8nXqalkufM7fCKJ0iB8/mMHSOmDZYwdR1fXP/1M="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.marxx22rfo.css",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/obj/Debug/net9.0/compressed/e26nif0wio-marxx22rfo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001145475372"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "872"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v+rm8nXqalkufM7fCKJ0iB8/mMHSOmDZYwdR1fXP/1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 22:36:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kg6nDbDmnmjGkK5ChPlND4F9UBwsN38b7pb2dYLT3jE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "marxx22rfo"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kg6nDbDmnmjGkK5ChPlND4F9UBwsN38b7pb2dYLT3jE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.marxx22rfo.css",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2479"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kg6nDbDmnmjGkK5ChPlND4F9UBwsN38b7pb2dYLT3jE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 22:36:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "marxx22rfo"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kg6nDbDmnmjGkK5ChPlND4F9UBwsN38b7pb2dYLT3jE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.marxx22rfo.css.gz",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/obj/Debug/net9.0/compressed/e26nif0wio-marxx22rfo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "872"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v+rm8nXqalkufM7fCKJ0iB8/mMHSOmDZYwdR1fXP/1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 22:36:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "marxx22rfo"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v+rm8nXqalkufM7fCKJ0iB8/mMHSOmDZYwdR1fXP/1M="
+        }
+      ]
+    },
+    {
+      "Route": "images/burger_hamburger_icon_263225.65539ov4vl.ico",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/obj/Debug/net9.0/compressed/5sg8eznnb9-65539ov4vl.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000228154232"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4382"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dh0IXxllkhPSnIeMoVcm0DqQh0UinN3XFXsI+pRP9rs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 22:19:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yjWnber+ScRx0ZzJ539ZxM0lYzfu0F8Dxuc6iEHM5V8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "65539ov4vl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/burger_hamburger_icon_263225.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yjWnber+ScRx0ZzJ539ZxM0lYzfu0F8Dxuc6iEHM5V8="
+        }
+      ]
+    },
+    {
+      "Route": "images/burger_hamburger_icon_263225.65539ov4vl.ico",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/images/burger_hamburger_icon_263225.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yjWnber+ScRx0ZzJ539ZxM0lYzfu0F8Dxuc6iEHM5V8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 22:19:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "65539ov4vl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/burger_hamburger_icon_263225.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yjWnber+ScRx0ZzJ539ZxM0lYzfu0F8Dxuc6iEHM5V8="
+        }
+      ]
+    },
+    {
+      "Route": "images/burger_hamburger_icon_263225.65539ov4vl.ico.gz",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/obj/Debug/net9.0/compressed/5sg8eznnb9-65539ov4vl.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dh0IXxllkhPSnIeMoVcm0DqQh0UinN3XFXsI+pRP9rs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 22:19:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "65539ov4vl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/burger_hamburger_icon_263225.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dh0IXxllkhPSnIeMoVcm0DqQh0UinN3XFXsI+pRP9rs="
+        }
+      ]
+    },
+    {
+      "Route": "images/burger_hamburger_icon_263225.ico",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/obj/Debug/net9.0/compressed/5sg8eznnb9-65539ov4vl.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000228154232"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4382"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dh0IXxllkhPSnIeMoVcm0DqQh0UinN3XFXsI+pRP9rs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 22:19:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yjWnber+ScRx0ZzJ539ZxM0lYzfu0F8Dxuc6iEHM5V8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yjWnber+ScRx0ZzJ539ZxM0lYzfu0F8Dxuc6iEHM5V8="
+        }
+      ]
+    },
+    {
+      "Route": "images/burger_hamburger_icon_263225.ico",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/images/burger_hamburger_icon_263225.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67646"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yjWnber+ScRx0ZzJ539ZxM0lYzfu0F8Dxuc6iEHM5V8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 22:19:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yjWnber+ScRx0ZzJ539ZxM0lYzfu0F8Dxuc6iEHM5V8="
+        }
+      ]
+    },
+    {
+      "Route": "images/burger_hamburger_icon_263225.ico.gz",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/obj/Debug/net9.0/compressed/5sg8eznnb9-65539ov4vl.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dh0IXxllkhPSnIeMoVcm0DqQh0UinN3XFXsI+pRP9rs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 22:19:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dh0IXxllkhPSnIeMoVcm0DqQh0UinN3XFXsI+pRP9rs="
+        }
+      ]
+    },
+    {
+      "Route": "images/SMI1.al90xytrzc.jpeg",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/images/SMI1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10550"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jknQmG84xJpnX49r+miQMMn8E3WMdHTFL57EpyT25AI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 22:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "al90xytrzc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/SMI1.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jknQmG84xJpnX49r+miQMMn8E3WMdHTFL57EpyT25AI="
+        }
+      ]
+    },
+    {
+      "Route": "images/SMI1.jpeg",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/images/SMI1.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10550"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jknQmG84xJpnX49r+miQMMn8E3WMdHTFL57EpyT25AI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 22:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jknQmG84xJpnX49r+miQMMn8E3WMdHTFL57EpyT25AI="
+        }
+      ]
+    },
+    {
+      "Route": "images/SMI2.b87osvgbv0.jpeg",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/images/SMI2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7570"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m3LFKc1Rb3lCJS18jc91UvocwSDdoAw5xcQ1qf1XKKQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 22:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b87osvgbv0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/SMI2.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m3LFKc1Rb3lCJS18jc91UvocwSDdoAw5xcQ1qf1XKKQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/SMI2.jpeg",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/images/SMI2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7570"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m3LFKc1Rb3lCJS18jc91UvocwSDdoAw5xcQ1qf1XKKQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 22:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-m3LFKc1Rb3lCJS18jc91UvocwSDdoAw5xcQ1qf1XKKQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/calculator.48zivp93dz.js",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/obj/Debug/net9.0/compressed/xedw879824-48zivp93dz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002958579882"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "337"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y/zjakbs0OBTdWMG71G5adhlV8x9mTSbu4OUbg5/35M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 21:51:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LKoyfp8mdm/5sas45rSVsTQf8Cyyts3mxD63/LVna1I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "48zivp93dz"
+        },
+        {
+          "Name": "label",
+          "Value": "js/calculator.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LKoyfp8mdm/5sas45rSVsTQf8Cyyts3mxD63/LVna1I="
+        }
+      ]
+    },
+    {
+      "Route": "js/calculator.48zivp93dz.js",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/js/calculator.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LKoyfp8mdm/5sas45rSVsTQf8Cyyts3mxD63/LVna1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 21:51:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "48zivp93dz"
+        },
+        {
+          "Name": "label",
+          "Value": "js/calculator.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LKoyfp8mdm/5sas45rSVsTQf8Cyyts3mxD63/LVna1I="
+        }
+      ]
+    },
+    {
+      "Route": "js/calculator.48zivp93dz.js.gz",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/obj/Debug/net9.0/compressed/xedw879824-48zivp93dz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y/zjakbs0OBTdWMG71G5adhlV8x9mTSbu4OUbg5/35M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 21:51:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "48zivp93dz"
+        },
+        {
+          "Name": "label",
+          "Value": "js/calculator.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y/zjakbs0OBTdWMG71G5adhlV8x9mTSbu4OUbg5/35M="
+        }
+      ]
+    },
+    {
+      "Route": "js/calculator.js",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/obj/Debug/net9.0/compressed/xedw879824-48zivp93dz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002958579882"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "337"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y/zjakbs0OBTdWMG71G5adhlV8x9mTSbu4OUbg5/35M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 21:51:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LKoyfp8mdm/5sas45rSVsTQf8Cyyts3mxD63/LVna1I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LKoyfp8mdm/5sas45rSVsTQf8Cyyts3mxD63/LVna1I="
+        }
+      ]
+    },
+    {
+      "Route": "js/calculator.js",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/js/calculator.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LKoyfp8mdm/5sas45rSVsTQf8Cyyts3mxD63/LVna1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 21:51:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LKoyfp8mdm/5sas45rSVsTQf8Cyyts3mxD63/LVna1I="
+        }
+      ]
+    },
+    {
+      "Route": "js/calculator.js.gz",
+      "AssetFile": "/Users/nicko/RiderProjects/Mission5/Mission5/obj/Debug/net9.0/compressed/xedw879824-48zivp93dz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y/zjakbs0OBTdWMG71G5adhlV8x9mTSbu4OUbg5/35M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 21:51:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y/zjakbs0OBTdWMG71G5adhlV8x9mTSbu4OUbg5/35M="
+        }
+      ]
+    }
+  ]
+}

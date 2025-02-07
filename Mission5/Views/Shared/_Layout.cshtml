@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<link rel="icon" href="~/images/burger_hamburger_icon_263225.ico" type="image/x-icon" />
+
+<body>
+
+
+<header>
+    <h1 style="color: white; text-align: center;">
+        <img src="~/images/burger_hamburger_icon_263225.ico" alt="Burger Icon" width="40" height="40" style="vertical-align: middle; margin-right: 10px;">
+        Stock Market Investing
+    </h1>
+    <nav>
+        <button onclick="window.location.href='@Url.Action("Index", "Home")'">Home</button>
+        <button onclick="window.location.href='@Url.Action("Calculator", "Home")'">Calculator</button>
+    </nav>
+</header>
+
+
+<main>
+    @RenderBody()
+</main>
+
+<footer style="text-align: center; margin-top: 2rem;">
+    <p>&copy; @DateTime.Now.Year - Built By Nick Wirthlin</p>
+</footer>
+
+<!-- This renders any scripts defined in child views -->
+@RenderSection("Scripts", required: false)
+</body>
+</html>

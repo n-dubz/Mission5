@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/images/SMI1.jpeg",
+      "PackagePath": "staticwebassets/images/SMI1.jpeg"
+    },
+    {
+      "Id": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/images/SMI2.jpeg",
+      "PackagePath": "staticwebassets/images/SMI2.jpeg"
+    },
+    {
+      "Id": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/images/burger_hamburger_icon_263225.ico",
+      "PackagePath": "staticwebassets/images/burger_hamburger_icon_263225.ico"
+    },
+    {
+      "Id": "/Users/nicko/RiderProjects/Mission5/Mission5/wwwroot/js/calculator.js",
+      "PackagePath": "staticwebassets/js/calculator.js"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Mission5.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Mission5.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.Mission5.props",
+      "PackagePath": "build\\Mission5.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Mission5.props",
+      "PackagePath": "buildMultiTargeting\\Mission5.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Mission5.props",
+      "PackagePath": "buildTransitive\\Mission5.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
